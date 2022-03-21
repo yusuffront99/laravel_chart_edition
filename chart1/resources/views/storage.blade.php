@@ -33,7 +33,7 @@
 
         yAxis: {
             title: {
-                text: 'Level'
+                text: 'Level (meter)'
             }
         },
         legend: {
@@ -53,7 +53,7 @@
         },{
             type: 'line',
             name: 'Daily Tank',
-            data: [1,2,3,4,5,6,7,8,9,10]
+            data: [1,2.5,3,4,5,4.3,4.2,3.55,4.5,5]
         }
         ],
         responsive: {
